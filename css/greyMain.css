@@ -1,0 +1,136 @@
+﻿@charset "utf-8";
+
+#mainHeaderContainer 
+{
+	width:				590px;
+	margin: 			0 auto;
+	height:				260px;
+	background-color: 	#444242;
+}
+
+#mainHeaderNav
+{
+	font-size:			5px;
+	width:				98%;
+	height:				50%;
+	margin:				0 auto;
+	text-align:			center;
+	
+}
+
+#mainHeaderBackground
+{
+	margin: 			0 auto;
+	height:				200px;
+	background-color: 	#4e4d4d;
+}
+
+#globalBackground
+{
+	font-size:			35px;
+	font-style:			normal;
+	font:				haettenschweiler;
+	background-color: 	#585858;
+}
+
+#pictureWall
+{
+	font-size:			20px;
+	font-style:			normal;
+	font:				haettenschweiler;
+	background-color: 	#585858;
+	margin: 			0 auto;
+	text-align:			center;
+	position:			relative;
+	top:				100px;
+	border:             1px solid;
+	border-color:       #585858;
+}
+
+#footnote
+{
+	margin: 			auto;
+	height:				200px;
+	background-color: 	#4e4d4d;
+}
+
+#contentImage
+{
+	background-color: 	#444444;
+	margin: 			auto;
+	text-align:			center;
+	position:			relative;
+    top:                100px;
+    width:              980px;
+        font-size:		40px;
+	font-style:			normal;
+    font-family:        Arial;
+    color:              #8f8f8f;
+
+}
+
+#contentTextTitle {
+    font-size:			52px;
+	font-style:			normal;
+    font-family:        Arial;
+    color:              #eeeeee;
+    font-weight:        bold;
+	background-color: 	#444444;
+	margin: 			auto;
+	text-align:			center;
+	position:			relative;
+    top:                100px;
+    width:              980px;
+    border-top:         15px solid #444444;
+    border-bottom:      15px solid #444444;
+}
+
+#contentTextSub {
+    font-size:			40px;
+	font-style:			normal;
+    font-family:        Arial;
+    color:              #8f8f8f;
+    font-weight:        normal;
+	background-color: 	#444444;
+	margin: 			auto;
+	text-align:			center;
+	position:			relative;
+    top:                100px;
+    width:              980px;
+    border-top:         20px solid #444444;
+    border-bottom:      20px solid #444444;
+}
+
+#workPageTitle {
+    font-size:			30px;
+	font-style:			normal;
+    font-family:        Arial;
+    color:              #8f8f8f;
+    font-weight:        normal;
+	background-color: 	#444444;
+	margin: 			auto;
+    padding :           20px;
+	text-align:			center ;
+	position:			relative;
+    top:                100px;
+    width:              980px;
+    border-top:         20px solid #444444;
+    border-bottom:      20px solid #444444;
+}
+
+#workPageItemSub {
+    font-size:			25px;
+	font-style:			normal;
+    font-family:        Arial;
+    color:              #8f8f8f;
+    font-weight:        normal;
+	background-color: 	#393939;
+	margin: 			auto;
+    padding :           20px;
+	text-align:			center ;
+	position:			relative;
+    top:                100px;
+    width:              980px;
+    border-top:         15px solid #393939;
+    border-bottom:      15px solid #393939;
+}
